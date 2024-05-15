@@ -1,0 +1,42 @@
+.hero {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.hero__image {
+    border-radius: 50%;
+    width: 6rem;
+    height: 6rem;
+    box-shadow: 0 10px 20px rgba(37, 99, 235, 0.2), 0 0 50px -15px var(--clr-blue);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.hero__subtitle {
+    color: var(--clr-slate800);
+    font-size: var(--size-base);
+    line-height: 0.9;
+}
+
+.hero__title {
+    color: var(--clr-slate400);
+    text-transform: uppercase;
+    font-size: var(--size-4xl);
+    letter-spacing: -0.04em;
+    line-height: 0.9;
+}
+
+.hero__description {
+    max-width: 60ch;
+    font-size:var(--size-sm);
+    color: var(--clr-slate600);
+}
+
+.hero__btn {
+    text-transform: capitalize;
+    font-size: var(--size-sm);;
+}
