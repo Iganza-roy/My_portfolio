@@ -18,6 +18,7 @@
 
 .hero__image:hover {
     transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(230, 67, 149, 0.2), 0 0 50px -15px var(--clr-pink);
 }
 
 .hero__subtitle {

@@ -2,10 +2,10 @@
     --clr-dark: #020617;
     --clr-light: #f1f5f9;
     --clr-slate400: #94a3b8;
-    --clr-slate600: #475569;
+    --clr-slate600: #7a8a9e;
     --clr-slate800: #334460;
     --clr-blue: #2563eb;
-    --clr-pink: #db2777;
+    --clr-pink: #db2778;
 
     /* blue 	rgb(37, 99, 235) */
     /* pink rgb(219, 39, 119) */
@@ -39,6 +39,7 @@ html {
 
 body {
     font-family: 'General Sans', sans-serif;
+    /* background-image: linear-gradient(to left, var(--clr-dark), rgb(1, 1, 44)); */
     background-color: var(--clr-dark);
     color: var(--clr-light); 
 }
