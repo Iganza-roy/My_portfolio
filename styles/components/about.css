@@ -56,6 +56,10 @@
     margin-left: 0.5em;
 }
 
+.about__img {
+    border-radius: 30px;
+}
+
 .about__img:hover {
     box-shadow: 0 10px 20px rgba(37, 99, 235, 0.2), 0 0 50px -15px var(--clr-slate600);
     transition: transform 0.3s, box-shadow 0.3s;
