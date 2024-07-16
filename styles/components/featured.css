@@ -69,6 +69,10 @@
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
+.features__img-container img {
+  border-radius: 8px;
+}
+
 .featured__img-wrapper {
   position: relative;
   transition: all 0.3s ease;
@@ -91,7 +95,7 @@
 }
 
 .featured__img-wrapper:hover:after {
-  background-color: rgba(37, 99, 235, 0.1);
+  background-color: rgba(37, 99, 235, 0.3);
 }
 
 /* xs */
