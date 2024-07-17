@@ -23,6 +23,34 @@
   font-size: var(--size-sm);
 }
 
+.contact__socials-container {
+  place-items: center;
+}
+
+.contact__socials {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+  font-size: 1.5em;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.contact__socials a {
+  color: white;
+}
+
+.contact__socials li {
+  transition: all 0.3s ease;
+}
+
+.contact__socials li:hover {
+  color: var(--clr-blue);
+  transform: translateY(-3px);
+}
+
 /* xs */
 @media (min-width: 475px) {
   .contact {
