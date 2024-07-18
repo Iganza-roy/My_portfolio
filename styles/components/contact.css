@@ -11,6 +11,12 @@
   font-size: var(--size-2xl);
   color: var(--clr-light);
   text-transform: capitalize;
+  transition: all 0.3s ease;
+}
+
+.contact__title:hover {
+  transform: translateY(-3px);
+  color: var(--clr-blue);
 }
 
 .contact__description {

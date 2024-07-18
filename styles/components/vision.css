@@ -1,0 +1,26 @@
+.vision {
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+  align-items: center;
+  text-align: center;
+  gap: 3rem;
+}
+
+.vision__title {
+  font-size: var(--size-4xl);
+  color: var(--clr-light);
+  text-transform: capitalize;
+  transition: all 0.3s ease;
+}
+
+.vision__title:hover {
+  transform: translateY(-3px);
+  color: var(--clr-blue);
+}
+
+.vision__description {
+  font-size: var(--size-lg);
+  color: var(--clr-slate600);
+  max-width: 90ch;
+}
