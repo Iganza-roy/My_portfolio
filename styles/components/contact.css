@@ -39,7 +39,7 @@
 }
 
 .contact__socials a {
-  color: white;
+  color: var(--clr-slate600);
 }
 
 .contact__socials li {
