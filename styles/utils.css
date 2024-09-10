@@ -111,18 +111,12 @@
   .container {
     max-width: 640px;
   }
-  #progress {
-    display: grid !important;
-  }
 }
 
 /* md */
 @media (min-width: 768px) {
   .container {
     max-width: 768px;
-  }
-  #progress {
-    display: grid !important;
   }
 }
 
