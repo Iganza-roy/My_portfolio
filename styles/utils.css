@@ -67,6 +67,37 @@
   transition: 0.5s ease-in-out;
 }
 
+#progress {
+  position: fixed;
+  bottom: 20px;
+  right: 10px;
+  height: 70px;
+  width: 70px;
+  display: none;
+  place-items: center;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: all 0.3s ease-in;
+}
+
+#progress:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(55, 52, 209, 0.8), 0 0 10px -10px var(--clr-blue);
+}
+
+#progress-value {
+  display: block;
+  height: calc(100% - 15px);
+  width: calc(100% - 15px);
+  background-color: #fff;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-size: 35px;
+  color: var(--clr-slate800);
+}
+
 /* xs */
 @media (min-width: 475px) {
   .container {
