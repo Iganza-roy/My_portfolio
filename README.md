@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/Iganza-roy/Iganza-roy/blob/main/White%20Green%20Neon%20Modern%20Marketing%20Specialist%20LinkedIn%20Banner%20(2).jpg)](https://rishavchanda.io)
 <h1 align=center>🌟 My Personal Portfolio 🚀</h1>
 
 Welcome to my portfolio! This project showcases my skills in **HTML**, **CSS**, and **JavaScript**. I've also set it up with **Vite** for faster development and a smooth experience.
@@ -81,6 +82,9 @@ Feel free to use this project as a reference for your own work!
 This project is licensed under the MIT License.
 
 ---
+
+Thank you for checking out my portfolio! I hope you enjoy exploring it as much as I enjoyed building it! 😊
+<div align=center>#major</div>
 
 ## 🙋‍♂️ Connect with Me
 I’d love to hear from you! You can reach me via:
