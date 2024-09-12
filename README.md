@@ -83,11 +83,13 @@ This project is licensed under the MIT License.
 
 ---
 
-Thank you for checking out my portfolio! I hope you enjoy exploring it as much as I enjoyed building it! 😊
-<div align=center>#major</div>
-
 ## 🙋‍♂️ Connect with Me
 I’d love to hear from you! You can reach me via:
 - 💌 Email: iganzaroy55@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/royiganzakibata
 - 🐦 Twitter(X): https://twitter.com/IganzaRoy
+
+---
+
+Thank you for checking out my portfolio! I hope you enjoy exploring it as much as I enjoyed building it! 😊
+<div align=center>#major</div>
