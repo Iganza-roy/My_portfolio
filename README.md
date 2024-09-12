@@ -6,7 +6,7 @@ Feel free to explore the code, try out the site, and let me know what you think!
 
 ---
 
-## 🖥️ Live Demo
+## 🖥️ Deployed site
 
 Check out the deployed site here: [Roy Kibata](https://roykibata.vercel.app)
 
@@ -52,6 +52,8 @@ Want to run this project locally? Follow these steps:
 6. **Open in your browser:**
 Vite will automatically open the project in your default browser. If not, visit `http://localhost:3000` to see the portfolio in action.
 
+---
+
 **🏗️ Building for Production**
 ```
 npm run build
@@ -78,8 +80,10 @@ Here's a quick look at how the project is organized:
 Feel free to use this project as a reference for your own work!
 This project is licensed under the MIT License.
 
+---
+
 ## 🙋‍♂️ Connect with Me
 I’d love to hear from you! You can reach me via:
-💌 Email: iganzaroy55@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/royiganzakibata
-🐦 Twitter(X): https://twitter.com/IganzaRoy
+- 💌 Email: iganzaroy55@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/royiganzakibata
+- 🐦 Twitter(X): https://twitter.com/IganzaRoy
