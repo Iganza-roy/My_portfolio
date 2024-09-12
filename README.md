@@ -87,6 +87,7 @@ Here's a quick look at how the project is organized:
 
 ### 📝 License
 Feel free to use this project as a reference for your own work!
+
 This project is licensed under the MIT License.
 
 ---
