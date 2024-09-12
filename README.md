@@ -61,6 +61,14 @@ npm run build
 ```
 The build will be created in the dist/ folder, ready to be deployed!
 
+---
+
+## 📄 CV and Resume
+
+⚠️ **Note**: The buttons for viewing my CV and Resume are not yet functional. I haven't uploaded the documents yet, but I’ll be adding them soon. Stay tuned for the update! 😄
+
+---
+
 **📂 Folder Structure**
 
 Here's a quick look at how the project is organized:
