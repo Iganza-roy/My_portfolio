@@ -29,7 +29,7 @@
 }
 
 .work__img-wrapper::after {
-  content: "";
+  content: '';
   background-color: rgba(37, 99, 235, 0.4);
   width: 100%;
   height: 100%;
@@ -105,9 +105,9 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-areas:
-      "image1 content1"
-      "content2 image2"
-      "image3 content3";
+      'image1 content1'
+      'content2 image2'
+      'image3 content3';
     place-items: center;
   }
 
