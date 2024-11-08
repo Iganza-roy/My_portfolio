@@ -89,8 +89,10 @@
 
 #progress-value {
   display: block;
-  height: calc(100% - 15px);
-  width: calc(100% - 15px);
+  /* height: calc(100% - 15px);
+  width: calc(100% - 15px); */
+  height: 55px;
+  width: 55px;
   background-color: #fff;
   border-radius: 50%;
   display: grid;
