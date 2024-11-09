@@ -50,6 +50,11 @@
   font-size: var(--size-sm);
   color: var(--clr-slate400);
 }
+
+.about__li-icon {
+  margin-right: 6px;
+}
+
 .about__img {
   border-radius: 30px;
 }
