@@ -51,6 +51,10 @@
   color: var(--clr-slate400);
 }
 
+.about__li:hover {
+  color: var(--clr-blue);
+}
+
 .about__li-icon {
   margin-right: 6px;
 }
