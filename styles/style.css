@@ -78,6 +78,10 @@ strong {
   color: var(--clr-pink);
 }
 
+strong:hover {
+  color: var(--clr-blue);
+}
+
 /* scrollbar */
 body::-webkit-scrollbar {
   width: 8px;
