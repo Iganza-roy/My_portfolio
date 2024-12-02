@@ -11,5 +11,5 @@ calcScrollValue();
 cursorMov();
 
 particlesJS.load('particles-js', '/particles.json', function () {
-  console.log('Particles.js loaded; Good to go!');
+  console.log('Particles.js loaded');
 });
